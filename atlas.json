@@ -13,12 +13,14 @@
       "version": "web",
       "toc": true
     },
-    "epub": {},
-    "mobi": {},
+    "epub": {
+    },
+    "mobi": {
+    },
     "html": {
       "toc": true
     }
   },
   "theme": "git@github.com:oreillymedia/atlas_tech1c_theme.git",
-  "title": "atlas book skeleton"
+  "title": "Create More Value Than You Capture"
 }
